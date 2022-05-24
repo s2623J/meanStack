@@ -1,0 +1,18 @@
+
+    Notes:
+    ------
+    Stack Examples:  
+        MEAN:   MOngoDB, ExpressJS, Angular, NodeJS
+        LAMP:   Linux, Apache, MySQL, PHP
+        MERN:   MOngoDB, ExpressJS, React, NoeJS
+
+    JSON Placeholder:
+        A free fake api service for development use purposes
+            Test responses using Postman:
+                https://jsonplaceholder.typicode.com/
+            API CRUD/Http Methods:
+                Get
+                Post
+                Put
+                Delete
+            
