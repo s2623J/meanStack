@@ -15,4 +15,23 @@
                 Post
                 Put
                 Delete
-            
+    
+    Installation:
+        npm install:
+            "dotenv":   (to read global config variables from .env file in root)
+            "express":  (barebones local web server framework)
+            "nodemon":  (monitor code for updates in real time)
+            "morgan":   (used to log in requests)
+            "mongoose": 
+                MongoDB object modeling tool -> table = collection = model
+                Connects middle-tier server to DB
+
+    Postman:
+        Allows developer to interact (and test) with local API as a web front-end-application would
+
+    MongoDB:
+        Get connection string from the MongoDB cluster page
+        Collection == Table
+        Schema: Use Mongoose to create DB field-typing
+        Model:  Use Mongoose to create Model using Schema as input (* Must be capitalized)
+
